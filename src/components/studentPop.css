@@ -1,0 +1,108 @@
+.container{
+    position: absolute;
+    width: 350px;
+    height: 48px;
+    left: 1058px;
+    top: 28px;
+    right:104px;
+    bottom:1135px;
+
+
+/* White */
+background: #FFFFFF;
+/* ds */
+box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.06), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+border-radius: 14px;    
+}
+.conatiner img{
+position: absolute;
+width: 36px;
+height: 36px;
+left: 6px;
+top: 6px;
+
+border-radius: 10px;
+}
+.container h3{
+position: absolute;
+left: 50px;
+right:224px;
+top:-10px;
+bottom:700px;
+width: 76px;
+height: 18px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+/* Student */
+color: #176DE6;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.container p{
+    position: absolute;
+    left: 50px;
+    right: 258px;
+    top:10px;
+    bottom:8px;
+    width: 42px;
+height: 14px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 117% */
+
+/* Text */
+color: #242424;
+
+opacity: 0.7;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.dot1{
+    position: absolute;
+left: 85.31%;
+right: 45.31%;
+top: 30.5%;
+bottom: 79.69%;
+
+/* Faculty */
+/* border: .1px solid #DD2D4A; */
+}
+.dot2{
+    position: absolute;
+left: 85.31%;
+right: 45.31%;
+top: 45.31%;
+bottom: 45.31%;
+
+/* Faculty */
+
+}
+.dot3{
+    position: absolute;
+left: 85.31%;
+right: 45.31%;
+top: 60.69%;
+bottom: 25.94%;
+
+/* border: .1px solid #DD2D4A; */
+
+}
