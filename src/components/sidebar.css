@@ -1,0 +1,337 @@
+.container{
+position: absolute;
+width: 207px;
+height: 100%;
+overflow: hidden;
+left: 0px;
+top: 0px;
+color:#DD2D4A;
+background-color: #FFFFFF;
+}
+.container img{
+position: absolute;
+left: 74px;
+right: 105.29px;
+top: 42px;
+bottom: 894px;
+
+/* Faculty */
+background:white;
+}
+.container p{
+position: absolute;
+width: 29px;
+height: 20px;
+left: 106px;
+top: 30px;
+right: 72px;
+bottom: 898px;
+
+font-family: 'Quicksand', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16.7475px;
+line-height: 21px;
+
+/* Faculty */
+color: #DD2D4A;
+}
+
+.dashboard{
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 65px;
+right: 0px;
+
+
+/* Faculty */
+color:black;
+background: white;
+border-radius: 12px 0px 0px 12px;
+
+}
+.dashboard :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+
+.dashboard img{
+position: absolute;
+left: 35.2px;
+right: 156.2px;
+top: 80px;
+color: #99ADC9;
+
+
+/* Primary L */
+background: #FCFCFC;
+}
+.dashboard p{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 65px;
+right:67px;
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+.add{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 100px;
+right: 0px;
+
+
+/* Faculty */
+color:black;
+border-radius: 12px 0px 0px 12px;
+
+}
+.add :hover{
+cursor: pointer;  
+color: #DD2D4A;
+}
+.add img{
+position: absolute;
+left: 37px;
+right: 170px;
+top: 93px;
+
+
+/* Primary L */
+background: #FCFCFC;
+}
+.add p{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 80px;
+right:79px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+/* Groups */
+.groups{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 21px;
+right: 0px;
+
+
+/* Faculty */
+color:#99ADC9;
+border-radius: 12px 0px 0px 12px;
+
+}
+.groups :hover{
+cursor: pointer; 
+color: #DD2D4A;
+}
+.groups img{
+position: absolute;
+left: 33.63px;
+right: 154.63px;
+top: 222.62px;
+bottom: 718.63px;
+
+/* Primary L */
+background: #FCFCFC;
+}
+.groups p{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 210px;
+right:89px;
+bottom:719px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color:#99ADC9;
+}
+
+/* Research */
+.research{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 19px;
+right: 0px;
+
+
+/* Faculty */
+color:black;
+border-radius: 12px 0px 0px 12px;
+
+}
+.research :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+.research img{
+position: absolute;
+left: 35px;
+right: 156px;
+top: 277px;
+bottom: 663px;
+
+/* Primary L */
+background: #FCFCFC;
+}
+.research p{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 265px;
+right:78px;
+bottom:665px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+/* Settings*/
+.settings{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 20px;
+right: 0px;
+
+
+/* Faculty */
+
+border-radius: 12px 0px 0px 12px;
+
+}
+.settings :hover{
+cursor: pointer;
+color: #DD2D4A;
+}
+
+.settings img{
+position: absolute;
+left: 34.52px;
+right: 155.51px;
+top: 332.51px;
+bottom: 610.51px;
+
+/* Primary L */
+background: #FCFCFC;
+}
+.settings p{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 320px;
+right:84px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #99ADC9;
+}
+
+/* Logout */
+.logout{
+
+position: absolute;
+width: 191px;
+height: 42px;
+left: 16px;
+top: 680px;
+right: 26px;
+
+
+/* Faculty */
+color:black;
+border-radius: 12px 0px 0px 12px;
+
+}
+.logout img{
+position: absolute;
+left: 36.55px;
+right: 152.45px;
+top: 42px;
+
+
+/* Primary L */
+background: #FCFCFC;
+}
+.logout p{
+position: absolute;
+width: 68px;
+height: 17px;
+left: 72px;
+top: 30px;
+right:92px;
+
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+/* Primary L */
+color: #DD2D4A;
+}
+.logout:hover{
+    cursor: pointer;
+}
